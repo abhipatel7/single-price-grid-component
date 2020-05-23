@@ -96,7 +96,7 @@ ul {
 
 @media (max-width: 375px) {
   .main {
-    margin: 22% 10%;
+    margin: 20% 10%;
   }
   .first {
     border-bottom-left-radius: 0rem!important;
